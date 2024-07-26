@@ -1,13 +1,15 @@
-# Hi, I'm Sam! 👋
+Sure, here's a polished version:
 
-I am a recent computer science graduate at UC Davis with a passion for software engineering and games.  
-Here's a bit about me:
+Hi, I'm Sam! 👋
 
-- 💻 Strong academic background in computer science
-- 🚀 Over three years of project experience in back-end development
-- 🌐 Currently teaching myself front-end development
-- 🔧 Proficient in Java, C/C++, and Python
-- 🌐 Knowledgeable in software engineering, computer architecture, networks, databases, and operating systems
-- 🤓 Eager to keep learning new technologies
+I'm a recent Computer Science graduate from UC Davis with a deep passion for software engineering and gaming. Here's a bit about me:
 
-After I graduate in June 2024, I plan to move to Livermore, California, and pursue a challenging full-stack software engineering role. I'm excited about creating and contributing to industry-leading products!
+  💻 Strong academic foundation in Computer Science  
+  🚀 Over four years of project experience in back-end development  
+  🌐 Actively teaching myself front-end development  
+  🔧 Proficient in Java, C/C++, Python, JavaScript, Node.js, and React  
+  🛠️ Knowledgeable in software engineering, computer architecture, networks, databases, and operating systems  
+  🔄 Experienced with Agile methodologies, OOP, CI/CD practices, Docker, and Jenkins  
+  🤓 Continuously eager to learn new technologies  
+
+If you have any questions about my previous work, think I would be a great fit for your team, or just want to queue up some Overwatch, feel free to reach out via email or LinkedIn.
