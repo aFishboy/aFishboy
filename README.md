@@ -1,6 +1,6 @@
 # Hi, I'm Sam! 👋
 
-I am a senior computer science major at UC Davis with a passion for software engineering and games.  
+I am a recent computer science graduate at UC Davis with a passion for software engineering and games.  
 Here's a bit about me:
 
 - 💻 Strong academic background in computer science
