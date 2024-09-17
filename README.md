@@ -1,5 +1,3 @@
-Sure, here's a polished version:
-
 Hi, I'm Sam! 👋
 
 I'm a recent Computer Science graduate from UC Davis with a deep passion for software engineering and gaming. Here's a bit about me:
