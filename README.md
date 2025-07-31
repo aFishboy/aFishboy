@@ -21,18 +21,10 @@ I'm a Full Stack Software Developer based in Livermore, CA. I’m passionate abo
 - Enabled auto-deployment of **Airflow** DAGs and **Streamlit** dashboards.  
 - Migrated infrastructure (Bitbucket, Jira, Confluence, PostgreSQL) to a new Linux server using containers.
 
-## 🧪 Projects
-
-**🎵 Music Genre Classification**  
-Built a machine learning app to predict song genres from over 40 categories.  
-- Designed the front end with **Flask**, **JavaScript**, and **HTML/CSS** to visualize model predictions.  
-- Collaborated with a team to train and test genre classifiers using Spotify data.
-
 ## 🎓 Education
 
 **University of California, Davis**  
 *Bachelor of Science in Computer Science, Graduated June 2024*  
-Relevant Coursework: Software Engineering, Machine Learning, Web Development, Operating Systems, Networks, Databases, and more.
 
 ## 🛠️ Skills
 
